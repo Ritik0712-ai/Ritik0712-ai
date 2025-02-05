@@ -1,6 +1,6 @@
 # Hi there, I'm Ritik Agarwal! 👋
 
-![GitHub Banner](https://user-images.githubusercontent.com/your-banner-url)
+![GitHub Banner](https://leviarista.github.io/github-profile-header-generator/)
 
 ## 🚀 About Me
 
