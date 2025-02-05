@@ -29,8 +29,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritik0712-ai&show_icons=true&theme=radical)
+### 📊 GitHub Stats  
+
+![GitHub Stats](https://raw.githubusercontent.com/Ritik0712-ai/Ritik0712-ai/main/github-stats.png)
+
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ritik0712-ai&theme=onedark&margin-w=15)
