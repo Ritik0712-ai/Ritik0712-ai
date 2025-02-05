@@ -16,12 +16,15 @@ jobs:
         run: |
           curl -L "https://github-readme-stats.vercel.app/api?username=Ritik0712-ai&show_icons=true&theme=radical&count_private=true&include_all_commits=true" > github-stats.png
 
-      - name: Commit and Push Changes
+      - name: Configure Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and Push Changes
+        run: |
           git add github-stats.png
-          git commit -m "Updated GitHub Stats
+          git commit -m "Updated GitHub Stats"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-         git push
+          git push
 
