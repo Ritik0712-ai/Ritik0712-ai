@@ -36,7 +36,8 @@
 
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ritik0712-ai&theme=onedark&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ritik0712-ai&theme=radical&no-bg=true&no-frame=true)
+
 
 ## 🔗 Connect with Me
 
