@@ -31,7 +31,8 @@
 
 ### 📊 GitHub Stats  
 
-![GitHub Stats](https://raw.githubusercontent.com/Ritik0712-ai/Ritik0712-ai/main/github-stats.png)
+<img src="https://github-readme-stats.vercel.app/api?username=Ritik0712-ai&show_icons=true&theme=radical" alt="Ritik's GitHub Stats" />
+
 
 
 ## 🏆 GitHub Trophies
