@@ -10,7 +10,7 @@
 - 💻 Passionate about **Software Development** & **Data Science**
 - 🚀 Aspiring **Software Engineer** | **Web Developer**
 - 🌱 Currently learning **Full Stack Web Development**
-- 🏆 Core Member of **Matrix, Metaverse, & SEDS Nebula Clubs**
+- 🏆 Core Member of **Matrix Club**
 
 ## 🔥 Skills & Tech Stack
 
