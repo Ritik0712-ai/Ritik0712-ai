@@ -1,6 +1,6 @@
 # Hi there, I'm Ritik Agarwal! 👋
 
-![GitHub Banner](./your-header-image-real.png)
+![GitHub Banner](./github-header-image real.png)
 
 ## 🚀 About Me
 
