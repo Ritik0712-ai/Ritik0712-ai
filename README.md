@@ -1,6 +1,7 @@
 # Hi there, I'm Ritik Agarwal! 👋
 
-![GitHub Banner](./github-header-image-real.png)
+![GitHub Banner](https://raw.githubusercontent.com/Ritik0712-ai/Ritik0712-ai/main/assets/github-header-image-real.png)
+
 
 ## 🚀 About Me
 
