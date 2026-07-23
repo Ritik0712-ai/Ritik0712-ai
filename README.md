@@ -9,6 +9,7 @@
 <a href="https://ritik-portfolio-six-drab.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/ritik-agarwal-58ba012b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/RitikAgarwal07"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://instagram.com/ritik_agarwal0712"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="mailto:ritikagarwal2468@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Ritik0712-ai&style=flat-square&color=6366f1&label=profile+views" alt="Profile views" />
