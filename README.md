@@ -65,10 +65,6 @@ goal:      Software Engineer / Web Developer
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ritik0712-ai&show_icons=true&hide_border=true&theme=transparent&icon_color=6366f1&title_color=6366f1&rank_icon=github" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik0712-ai&layout=compact&hide_border=true&theme=transparent&title_color=6366f1&langs_count=8" alt="Top languages" />
 
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ritik0712-ai&theme=nord&no-bg=true&no-frame=true&column=7&margin-w=8" alt="Trophies" />
-
 </div>
 
 <br />
