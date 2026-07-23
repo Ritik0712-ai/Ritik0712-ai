@@ -21,12 +21,12 @@
 
 ## About
 
-Computer Science student at **VIT Bhopal**, building for the web and learning the data side of things.
+Computer Science student at **VIT Bhopal**, building for the web and sharpening my fundamentals along the way.
 
 ```yaml
 name:      Ritik Agarwal
 education: B.Tech Computer Science — VIT Bhopal
-focus:     Software Development · Data Science
+focus:     Software Development
 learning:  Full Stack Web Development
 goal:      Software Engineer / Web Developer
 ```
@@ -39,7 +39,7 @@ goal:      Software Engineer / Web Developer
   <tr>
     <td width="140"><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" height="42" alt="Python, C++, JavaScript" />
+      <img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" height="42" alt="Python, Java, JavaScript" />
     </td>
   </tr>
   <tr>
@@ -62,8 +62,9 @@ goal:      Software Engineer / Web Developer
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ritik0712-ai&show_icons=true&hide_border=true&theme=transparent&icon_color=6366f1&title_color=6366f1&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik0712-ai&layout=compact&hide_border=true&theme=transparent&title_color=6366f1&langs_count=8" alt="Top languages" />
+<img src="https://streak-stats.demolab.com/?user=Ritik0712-ai&theme=transparent&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideNums=8B949E&sideLabels=8B949E&dates=8B949E" alt="Contribution streak" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritik0712-ai&bg_color=00000000&color=6366f1&line=6366f1&point=8b949e&area=true&hide_border=true&days=90" alt="Contribution graph" width="100%" />
 
 </div>
 
