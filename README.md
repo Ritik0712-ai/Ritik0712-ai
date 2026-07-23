@@ -1,62 +1,80 @@
-# Hi there, I'm Ritik Agarwal! 👋
+<div align="center">
 
-![GitHub Banner](https://raw.githubusercontent.com/Ritik0712-ai/Ritik0712-ai/main/github-header-image-real.png)
+<img src="https://raw.githubusercontent.com/Ritik0712-ai/Ritik0712-ai/main/github-header-image-real.png" alt="Ritik Agarwal" width="100%" />
 
+<br />
 
+<a href="https://www.linkedin.com/in/ritik-agarwal-58ba012b4/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://x.com/RitikAgarwal07">
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://ritik0712-ai.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-FF4088?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Ritik0712-ai&style=flat-square&color=6366f1&label=Profile+Views" alt="Profile views" />
 
-## 🚀 About Me
+</div>
 
-- 🎓 **Computer Science Student** at VIT Bhopal
-- 💻 Passionate about **Software Development** & **Data Science**
-- 🚀 Aspiring **Software Engineer** | **Web Developer**
-- 🌱 Currently learning **Full Stack Web Development**
+<br />
 
-## 🔥 Skills & Tech Stack
+## About
 
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Computer Science student at **VIT Bhopal**, building for the web and learning the data side of things.
 
-**Web Development:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+```yaml
+name:      Ritik Agarwal
+education: B.Tech Computer Science — VIT Bhopal
+focus:     Software Development · Data Science
+learning:  Full Stack Web Development
+goal:      Software Engineer / Web Developer
+```
 
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br />
 
-### 📊 GitHub Stats  
+## Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ritik0712-ai&show_icons=true&theme=radical" alt="Ritik's GitHub Stats" />
+<table>
+  <tr>
+    <td width="140"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" height="42" alt="Python, C++, JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" height="42" alt="HTML5, CSS3, React" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="42" alt="Git, GitHub, VS Code" />
+    </td>
+  </tr>
+</table>
 
+<br />
 
+## GitHub Activity
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ritik0712-ai&theme=radical&no-bg=true&no-frame=true)
+<div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ritik0712-ai&show_icons=true&hide_border=true&theme=transparent&icon_color=6366f1&title_color=6366f1&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik0712-ai&layout=compact&hide_border=true&theme=transparent&title_color=6366f1&langs_count=8" alt="Top languages" />
 
-## 🔗 Connect with Me
+<br /><br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-agarwal-58ba012b4/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RitikAgarwal07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://ritik0712-ai.github.io/portfolio/)
+<img src="https://github-profile-trophy.vercel.app/?username=Ritik0712-ai&theme=nord&no-bg=true&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 
+</div>
 
+<br />
 
-<!--
-**Ritik0712-ai/Ritik0712-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<sub>Open to collaborating on web and data projects — reach out on any of the links above.</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
