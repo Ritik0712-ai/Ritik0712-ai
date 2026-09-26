@@ -167,7 +167,6 @@ Instant, actionable feedback on your code — catches bugs, smells and security 
 | [**mindspace-app**](https://github.com/Ritik0712-ai/mindspace-app) | — | TypeScript | 11 days ago |
 | [**Voxora**](https://github.com/Ritik0712-ai/Voxora) | — | JavaScript | 12 days ago |
 | [**TripSync**](https://github.com/Ritik0712-ai/TripSync) | — | TypeScript | 17 days ago |
-| [**storeit**](https://github.com/Ritik0712-ai/storeit) | — | Java | 23 days ago |
 <!-- RECENT:END -->
 
 <sub>Stats, calendar and this list are regenerated every 6 hours from the GitHub API by <a href=".github/workflows/profile.yml">a workflow in this repo</a>.</sub>
