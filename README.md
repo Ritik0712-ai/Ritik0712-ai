@@ -165,7 +165,7 @@ Instant, actionable feedback on your code — catches bugs, smells and security 
 |---|---|---|---|
 | [**suraksha_setu**](https://github.com/Ritik0712-ai/suraksha_setu) | — | JavaScript | today |
 | [**portfolio-26**](https://github.com/Ritik0712-ai/portfolio-26) | — | TypeScript | today |
-| [**mindspace-app**](https://github.com/Ritik0712-ai/mindspace-app) | — | TypeScript | 12 days ago |
+| [**mindspace-app**](https://github.com/Ritik0712-ai/mindspace-app) | — | TypeScript | 13 days ago |
 | [**Voxora**](https://github.com/Ritik0712-ai/Voxora) | — | JavaScript | 13 days ago |
 | [**TripSync**](https://github.com/Ritik0712-ai/TripSync) | — | TypeScript | 18 days ago |
 <!-- RECENT:END -->
