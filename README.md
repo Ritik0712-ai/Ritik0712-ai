@@ -163,11 +163,11 @@ Instant, actionable feedback on your code — catches bugs, smells and security 
 <!-- RECENT:START -->
 | Repository | About | Language | Last push |
 |---|---|---|---|
-| [**portfolio-26**](https://github.com/Ritik0712-ai/portfolio-26) | — | TypeScript | today |
-| [**suraksha_setu**](https://github.com/Ritik0712-ai/suraksha_setu) | — | JavaScript | today |
-| [**bunksafe**](https://github.com/Ritik0712-ai/bunksafe) | Command-line attendance planner that tells you how many classes you can safely skip and still stay above 75%. Built in pure Python with SQLite. | Python | today |
-| [**mindspace-app**](https://github.com/Ritik0712-ai/mindspace-app) | — | TypeScript | 14 days ago |
-| [**Voxora**](https://github.com/Ritik0712-ai/Voxora) | — | JavaScript | 14 days ago |
+| [**portfolio-26**](https://github.com/Ritik0712-ai/portfolio-26) | — | TypeScript | yesterday |
+| [**suraksha_setu**](https://github.com/Ritik0712-ai/suraksha_setu) | — | JavaScript | yesterday |
+| [**bunksafe**](https://github.com/Ritik0712-ai/bunksafe) | Command-line attendance planner that tells you how many classes you can safely skip and still stay above 75%. Built in pure Python with SQLite. | Python | yesterday |
+| [**mindspace-app**](https://github.com/Ritik0712-ai/mindspace-app) | — | TypeScript | 15 days ago |
+| [**Voxora**](https://github.com/Ritik0712-ai/Voxora) | — | JavaScript | 15 days ago |
 <!-- RECENT:END -->
 
 <sub>Stats, calendar and this list are regenerated every 6 hours from the GitHub API by <a href=".github/workflows/profile.yml">a workflow in this repo</a>.</sub>
