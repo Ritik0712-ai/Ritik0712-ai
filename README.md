@@ -163,7 +163,7 @@ Instant, actionable feedback on your code — catches bugs, smells and security 
 <!-- RECENT:START -->
 | Repository | About | Language | Last push |
 |---|---|---|---|
-| [**koshvista-android**](https://github.com/Ritik0712-ai/koshvista-android) | Open-source Android app for tracking expenses, cash, investments, FDs, and net worth. | Kotlin | yesterday |
+| [**koshvista-android**](https://github.com/Ritik0712-ai/koshvista-android) | Open-source Android app for tracking expenses, cash, investments, FDs, and net worth. | Kotlin | 2 days ago |
 | [**portfolio-26**](https://github.com/Ritik0712-ai/portfolio-26) | — | TypeScript | 4 days ago |
 | [**suraksha_setu**](https://github.com/Ritik0712-ai/suraksha_setu) | — | JavaScript | 4 days ago |
 | [**bunksafe**](https://github.com/Ritik0712-ai/bunksafe) | Command-line attendance planner that tells you how many classes you can safely skip and still stay above 75%. Built in pure Python with SQLite. | Python | 4 days ago |
