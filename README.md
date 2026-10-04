@@ -166,8 +166,8 @@ Instant, actionable feedback on your code — catches bugs, smells and security 
 | [**koshvista**](https://github.com/Ritik0712-ai/koshvista) | — | TypeScript | today |
 | [**suraksha_setu**](https://github.com/Ritik0712-ai/suraksha_setu) | — | JavaScript | today |
 | [**koshvista-android**](https://github.com/Ritik0712-ai/koshvista-android) | Open-source Android app for tracking expenses, cash, investments, FDs, and net worth. | Kotlin | 3 days ago |
-| [**portfolio-26**](https://github.com/Ritik0712-ai/portfolio-26) | — | TypeScript | 5 days ago |
-| [**bunksafe**](https://github.com/Ritik0712-ai/bunksafe) | Command-line attendance planner that tells you how many classes you can safely skip and still stay above 75%. Built in pure Python with SQLite. | Python | 5 days ago |
+| [**portfolio-26**](https://github.com/Ritik0712-ai/portfolio-26) | — | TypeScript | 6 days ago |
+| [**bunksafe**](https://github.com/Ritik0712-ai/bunksafe) | Command-line attendance planner that tells you how many classes you can safely skip and still stay above 75%. Built in pure Python with SQLite. | Python | 6 days ago |
 <!-- RECENT:END -->
 
 <sub>Stats, calendar and this list are regenerated every 6 hours from the GitHub API by <a href=".github/workflows/profile.yml">a workflow in this repo</a>.</sub>
