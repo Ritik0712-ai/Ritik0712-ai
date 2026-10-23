@@ -164,9 +164,9 @@ Instant, actionable feedback on your code — catches bugs, smells and security 
 | Repository | About | Language | Last push |
 |---|---|---|---|
 | [**Safar**](https://github.com/Ritik0712-ai/Safar) | Safar is an India-focused cab booking web app built with Next.js, Firebase, Leaflet, Geoapify, and Razorpay, featuring passenger and driver dashboards, live ride tracking, sandbox payments, receipts, and an admin workspace. | TypeScript | yesterday |
-| [**koshvista**](https://github.com/Ritik0712-ai/koshvista) | — | TypeScript | 17 days ago |
-| [**suraksha_setu**](https://github.com/Ritik0712-ai/suraksha_setu) | — | JavaScript | 18 days ago |
-| [**koshvista-android**](https://github.com/Ritik0712-ai/koshvista-android) | Open-source Android app for tracking expenses, cash, investments, FDs, and net worth. | Kotlin | 21 days ago |
+| [**koshvista**](https://github.com/Ritik0712-ai/koshvista) | — | TypeScript | 18 days ago |
+| [**suraksha_setu**](https://github.com/Ritik0712-ai/suraksha_setu) | — | JavaScript | 19 days ago |
+| [**koshvista-android**](https://github.com/Ritik0712-ai/koshvista-android) | Open-source Android app for tracking expenses, cash, investments, FDs, and net worth. | Kotlin | 22 days ago |
 | [**portfolio-26**](https://github.com/Ritik0712-ai/portfolio-26) | — | TypeScript | 24 days ago |
 <!-- RECENT:END -->
 
