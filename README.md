@@ -163,10 +163,10 @@ Instant, actionable feedback on your code — catches bugs, smells and security 
 <!-- RECENT:START -->
 | Repository | About | Language | Last push |
 |---|---|---|---|
-| [**zelosify-contract-hiring**](https://github.com/Ritik0712-ai/zelosify-contract-hiring) | Multi-tenant contract hiring assessment with Gemini tool calling, secure uploads, tests, and documented performance limitations. | JavaScript | yesterday |
-| [**Safar**](https://github.com/Ritik0712-ai/Safar) | Safar is an India-focused cab booking web app built with Next.js, Firebase, Leaflet, Geoapify, and Razorpay, featuring passenger and driver dashboards, live ride tracking, sandbox payments, receipts, and an admin workspace. | TypeScript | 11 days ago |
-| [**koshvista**](https://github.com/Ritik0712-ai/koshvista) | — | TypeScript | 27 days ago |
-| [**suraksha_setu**](https://github.com/Ritik0712-ai/suraksha_setu) | — | JavaScript | 28 days ago |
+| [**zelosify-contract-hiring**](https://github.com/Ritik0712-ai/zelosify-contract-hiring) | Multi-tenant contract hiring assessment with Gemini tool calling, secure uploads, tests, and documented performance limitations. | JavaScript | 2 days ago |
+| [**Safar**](https://github.com/Ritik0712-ai/Safar) | Safar is an India-focused cab booking web app built with Next.js, Firebase, Leaflet, Geoapify, and Razorpay, featuring passenger and driver dashboards, live ride tracking, sandbox payments, receipts, and an admin workspace. | TypeScript | 12 days ago |
+| [**koshvista**](https://github.com/Ritik0712-ai/koshvista) | — | TypeScript | 28 days ago |
+| [**suraksha_setu**](https://github.com/Ritik0712-ai/suraksha_setu) | — | JavaScript | 29 days ago |
 | [**koshvista-android**](https://github.com/Ritik0712-ai/koshvista-android) | Open-source Android app for tracking expenses, cash, investments, FDs, and net worth. | Kotlin | Oct 2026 |
 <!-- RECENT:END -->
 
