@@ -164,10 +164,10 @@ Instant, actionable feedback on your code — catches bugs, smells and security 
 | Repository | About | Language | Last push |
 |---|---|---|---|
 | [**Bachat**](https://github.com/Ritik0712-ai/Bachat) | — | TypeScript | today |
-| [**zelosify-contract-hiring**](https://github.com/Ritik0712-ai/zelosify-contract-hiring) | Multi-tenant contract hiring assessment with Gemini tool calling, secure uploads, tests, and documented performance limitations. | JavaScript | 2 days ago |
-| [**Safar**](https://github.com/Ritik0712-ai/Safar) | Safar is an India-focused cab booking web app built with Next.js, Firebase, Leaflet, Geoapify, and Razorpay, featuring passenger and driver dashboards, live ride tracking, sandbox payments, receipts, and an admin workspace. | TypeScript | 12 days ago |
-| [**koshvista**](https://github.com/Ritik0712-ai/koshvista) | — | TypeScript | 28 days ago |
-| [**suraksha_setu**](https://github.com/Ritik0712-ai/suraksha_setu) | — | JavaScript | 29 days ago |
+| [**zelosify-contract-hiring**](https://github.com/Ritik0712-ai/zelosify-contract-hiring) | Multi-tenant contract hiring assessment with Gemini tool calling, secure uploads, tests, and documented performance limitations. | JavaScript | 3 days ago |
+| [**Safar**](https://github.com/Ritik0712-ai/Safar) | Safar is an India-focused cab booking web app built with Next.js, Firebase, Leaflet, Geoapify, and Razorpay, featuring passenger and driver dashboards, live ride tracking, sandbox payments, receipts, and an admin workspace. | TypeScript | 13 days ago |
+| [**koshvista**](https://github.com/Ritik0712-ai/koshvista) | — | TypeScript | 29 days ago |
+| [**suraksha_setu**](https://github.com/Ritik0712-ai/suraksha_setu) | — | JavaScript | Oct 2026 |
 <!-- RECENT:END -->
 
 <sub>Stats, calendar and this list are regenerated every 6 hours from the GitHub API by <a href=".github/workflows/profile.yml">a workflow in this repo</a>.</sub>
