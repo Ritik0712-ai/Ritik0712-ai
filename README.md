@@ -164,7 +164,7 @@ Instant, actionable feedback on your code — catches bugs, smells and security 
 | Repository | About | Language | Last push |
 |---|---|---|---|
 | [**Bachat**](https://github.com/Ritik0712-ai/Bachat) | — | TypeScript | 10 days ago |
-| [**zelosify-contract-hiring**](https://github.com/Ritik0712-ai/zelosify-contract-hiring) | Multi-tenant contract hiring assessment with Gemini tool calling, secure uploads, tests, and documented performance limitations. | JavaScript | 12 days ago |
+| [**zelosify-contract-hiring**](https://github.com/Ritik0712-ai/zelosify-contract-hiring) | Multi-tenant contract hiring assessment with Gemini tool calling, secure uploads, tests, and documented performance limitations. | JavaScript | 13 days ago |
 | [**Safar**](https://github.com/Ritik0712-ai/Safar) | Safar is an India-focused cab booking web app built with Next.js, Firebase, Leaflet, Geoapify, and Razorpay, featuring passenger and driver dashboards, live ride tracking, sandbox payments, receipts, and an admin workspace. | TypeScript | 23 days ago |
 | [**koshvista**](https://github.com/Ritik0712-ai/koshvista) | — | TypeScript | Oct 2026 |
 | [**suraksha_setu**](https://github.com/Ritik0712-ai/suraksha_setu) | — | JavaScript | Oct 2026 |
